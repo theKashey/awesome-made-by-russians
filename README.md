@@ -42,6 +42,9 @@
 - **[PostCSS](https://github.com/postcss/postcss)** by [Andrey Sitnik](https://github.com/ai)  
   Tool for transforming styles with JS plugins.
   
+- **[React Hot Loader](https://github.com/gaearon/react-hot-loader)** by [Dan Abramov](https://github.com/gaearon)  
+  Tweak React components in real time.
+  
 - **[Swiper](https://github.com/nolimits4web/swiper)** by [Vladimir Kharlampidi](https://github.com/nolimits4web/swiper)  
   Most modern mobile touch slider with hardware accelerated transitions.
 
