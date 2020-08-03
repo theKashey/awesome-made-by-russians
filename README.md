@@ -10,6 +10,9 @@
 - [Kotlin](https://github.com/JetBrains/kotlin) by [JetBrains](https://github.com/JetBrains)  
   Programming language.
 
+- [Redux](https://github.com/reduxjs/redux) by [Dan Abramov](https://github.com/gaearon)  
+  Predictable state container for JavaScript apps.
+
 - [The Fuck](https://github.com/nvbn/thefuck) by [Vladimir Iakovlev](https://github.com/nvbn)  
   Magnificent app which corrects your previous console command.
 
