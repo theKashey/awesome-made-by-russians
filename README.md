@@ -102,6 +102,9 @@
   
 - **[Storeon](https://github.com/storeon/storeon)** by [Andrey Sitnik](https://github.com/ai)  
   A tiny (167 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte.
+  
+- **[Tacit](https://github.com/yegor256/tacit)** by [Yegor Bugayenko](https://github.com/yegor256)  
+  A primitive CSS framework for those who don't know anything about graphic design but want their web services to look eatable. No classes, no layouts.
 
 - The place for your next great pet project!
   
