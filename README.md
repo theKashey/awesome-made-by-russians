@@ -106,6 +106,9 @@
 - **[Frontend Dictionary](https://github.com/web-standards-ru/dictionary)** by [Web Standards Ru](https://github.com/web-standards-ru)  
   A repo with Russian translation of common terms and famous developers names.
   
+- **[PostHTML](https://github.com/posthtml/posthtml)** by [Ivan Voischev](https://github.com/voischev)  
+  A tool to transform HTML/XML with JS plugins.
+  
 - **[Storeon](https://github.com/storeon/storeon)** by [Andrey Sitnik](https://github.com/ai)  
   A tiny (167 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte.
   
