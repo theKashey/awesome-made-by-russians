@@ -97,6 +97,9 @@
 - **[Fotorama](https://github.com/artpolikarpov/fotorama)** by [Artem Polikarpov](https://github.com/artpolikarpov)  
   A simple, stunning, powerful jQuery gallery.
   
+- **[Frontend Dictionary](https://github.com/web-standards-ru/dictionary)** by [Web Standards Ru](https://github.com/web-standards-ru)  
+  A repo with Russian translation of common terms and famous developers names.
+  
 - **[Storeon](https://github.com/storeon/storeon)** by [Andrey Sitnik](https://github.com/ai)  
   A tiny (167 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte.
 
