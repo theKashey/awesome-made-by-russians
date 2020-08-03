@@ -1,6 +1,6 @@
 # 🇷🇺 Awesome Made in Russia [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curating the best projects that were made by Russian programmers
+> Curating the best projects that were made and mainly contributed by Russian developers
 
 ## Projects
 
@@ -52,3 +52,12 @@
 - [The Fuck](https://github.com/nvbn/thefuck) by [@nvbn](https://github.com/nvbn)  
   Magnificent app which corrects your previous console command.
   
+## But why?
+
+Actually, a lot of developers in Russia do not know about these projects and the fact that their authors also Russian or post USSR programmers.
+
+It warms your heart when you understand that a lot of highly popular and useful projects are made by “cold and gloomy” Russians.
+
+The trigger is [this tweet](https://twitter.com/fobbyal/status/1290311704803340288) by [@fobbyal](https://github.com/fobbyal):
+
+> Is there a cool open source project mainly contributed by Russian developers?
