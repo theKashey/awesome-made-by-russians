@@ -83,6 +83,9 @@
 - **[Nano ID](https://github.com/ai/nanoid)** by [Andrey Sitnik](https://github.com/ai)  
   A tiny (108 bytes), secure, URL-friendly, unique string ID generator.
 
+- **[React Styleguidist](https://github.com/styleguidist/react-styleguidist)** by [Artem Sapegin](https://github.com/sapegin)  
+  Isolated React component development environment with a living style guide.
+
 - **[Shower](https://github.com/shower/shower)** by [Vadim Makeev](https://github.com/pepelsbey)  
   HTML presentation engine.
 
