@@ -58,7 +58,10 @@
 
 - **[Emmet](https://github.com/emmetio/emmet)** by [Sergey Chikuyonok](https://github.com/sergeche)  
   A web-developer’s toolkit for boosting HTML & CSS code writing.
-  
+
+- **[Konva](https://github.com/konvajs/konva)** by [Anton Lavrenov](https://github.com/lavrton)  
+  An HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
+
 - **[Lint staged](https://github.com/okonet/lint-staged)** by [Andrey Okonetchnikov](https://github.com/okonet)  
   Tool for running linters on Git staged files.
   
