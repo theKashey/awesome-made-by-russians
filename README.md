@@ -44,6 +44,9 @@
 
 ## > 3k ★
 
+- **[AnyBar](https://github.com/tonsky/AnyBar)** by [Nikita Prokopov](https://github.com/tonsky)  
+  A small indicator for macOS menubar.
+
 - **[Browserslist](https://github.com/browserslist/browserslist)** by [Andrey Sitnik](https://github.com/ai)  
   The config to share target browsers and Node.js versions between different front-end tools.
 
