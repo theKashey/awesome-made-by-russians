@@ -62,7 +62,7 @@
   
 ## But why?
 
-Actually, a lot of developers in Russia do not know about these projects and the fact that their authors also Russian or post USSR programmers.
+Actually, a lot of developers in Russia do not know about these projects and the fact that their authors are also Russian or post USSR programmers.
 
 It warms your heart when you understand that a lot of highly popular and useful projects are made by “cold and gloomy” Russians.
 
