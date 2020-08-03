@@ -58,6 +58,9 @@
   
 - [Lint staged](https://github.com/okonet/lint-staged) by [Andrey Okonetchnikov](https://github.com/okonet)  
   Tool for running linters on Git staged files.
+  
+- [Nano ID](https://github.com/ai/nanoid) by [Andrey Sitnik](https://github.com/ai)  
+  A tiny (108 bytes), secure, URL-friendly, unique string ID generator.
 
 ## > 1k ★
 
