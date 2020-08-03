@@ -91,6 +91,9 @@
 
 ## > 1k ★
 
+- **[Awsm.css](https://github.com/igoradamenko/awsm.css)** by [Igor Adamenko](https://github.com/igoradamenko)  
+  Simple CSS library for semantic HTML markup.
+
 - **[Effector](https://github.com/zerobias/effector)** by [Dmitry Boldyrev](https://github.com/zerobias/effector)  
   An effective multi-store state manager for JavaScript apps.
   
