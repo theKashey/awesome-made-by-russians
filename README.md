@@ -4,70 +4,70 @@
 
 ## > 30k ★
 
-- [Fira Code](https://github.com/tonsky/FiraCode) by [Nikita Prokopov](https://github.com/tonsky)  
+- **[Fira Code](https://github.com/tonsky/FiraCode)** by [Nikita Prokopov](https://github.com/tonsky)  
   Free monospaced font with programming ligatures.
   
-- [Kotlin](https://github.com/JetBrains/kotlin) by [JetBrains](https://github.com/JetBrains)  
+- **[Kotlin](https://github.com/JetBrains/kotlin)** by [JetBrains](https://github.com/JetBrains)  
   Programming language.
 
-- [Redux](https://github.com/reduxjs/redux) by [Dan Abramov](https://github.com/gaearon)  
+- **[Redux](https://github.com/reduxjs/redux)** by [Dan Abramov](https://github.com/gaearon)  
   Predictable state container for JavaScript apps.
 
-- [The Fuck](https://github.com/nvbn/thefuck) by [Vladimir Iakovlev](https://github.com/nvbn)  
+- **[The Fuck](https://github.com/nvbn/thefuck)** by [Vladimir Iakovlev](https://github.com/nvbn)  
   Magnificent app which corrects your previous console command.
 
 ## > 10k ★
 
-- [Autoprefixer](https://github.com/postcss/autoprefixer) by [Andrey Sitnik](https://github.com/ai)  
+- **[Autoprefixer](https://github.com/postcss/autoprefixer)** by [Andrey Sitnik](https://github.com/ai)  
   PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use.
   
-- [ClickHouse](https://github.com/ClickHouse/ClickHouse) by [Yandex](https://github.com/yandex)  
+- **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** by [Yandex](https://github.com/yandex)  
   A free analytics DBMS for big data.
   
-- [Core JS](https://github.com/zloirock/core-js) by [Denis Pushkarev](https://github.com/zloirock/core-js)  
+- **[Core JS](https://github.com/zloirock/core-js)** by [Denis Pushkarev](https://github.com/zloirock/core-js)  
   Modular standard library for JavaScript.
   
-- [Framework7](https://github.com/framework7io/framework7) by [Vladimir Kharlampidi](https://github.com/nolimits4web/swiper)  
+- **[Framework7](https://github.com/framework7io/framework7)** by [Vladimir Kharlampidi](https://github.com/nolimits4web/swiper)  
   Full featured HTML framework for building iOS & Android apps.
   
-- [Highlight.js](https://github.com/highlightjs/highlight.js) by [Ivan Sagalaev](https://github.com/isagalaev)  
+- **[Highlight.js](https://github.com/highlightjs/highlight.js)** by [Ivan Sagalaev](https://github.com/isagalaev)  
   JavaScript syntax highlighter.
   
-- [Nginx](https://github.com/nginx/nginx) by [Igor Sysoev](https://github.com/igorsysoev)  
+- **[Nginx](https://github.com/nginx/nginx)** by [Igor Sysoev](https://github.com/igorsysoev)  
   Not Apache.
   
-- [PostCSS](https://github.com/postcss/postcss) by [Andrey Sitnik](https://github.com/ai)  
+- **[PostCSS](https://github.com/postcss/postcss)** by [Andrey Sitnik](https://github.com/ai)  
   Tool for transforming styles with JS plugins.
   
-- [Swiper](https://github.com/nolimits4web/swiper) by [Vladimir Kharlampidi](https://github.com/nolimits4web/swiper)  
+- **[Swiper](https://github.com/nolimits4web/swiper)** by [Vladimir Kharlampidi](https://github.com/nolimits4web/swiper)  
   Most modern mobile touch slider with hardware accelerated transitions.
 
 ## > 3k ★
 
-- [Browserslist](https://github.com/browserslist/browserslist) by [Andrey Sitnik](https://github.com/ai)  
+- **[Browserslist](https://github.com/browserslist/browserslist)** by [Andrey Sitnik](https://github.com/ai)  
   The config to share target browsers and Node.js versions between different front-end tools.
 
-- [CatBoost](https://github.com/catboost/catboost) by [Yandex](https://github.com/yandex)  
+- **[CatBoost](https://github.com/catboost/catboost)** by [Yandex](https://github.com/yandex)  
   A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other ML tasks.
 
-- [CSSO](https://github.com/css/csso) by [Roman Dvornov](https://github.com/lahmatiy)  
+- **[CSSO](https://github.com/css/csso)** by [Roman Dvornov](https://github.com/lahmatiy)  
   CSS minifier with structural optimizations.
   
-- [DataScript](https://github.com/tonsky/datascript) by [Nikita Prokopov](https://github.com/tonsky)  
+- **[DataScript](https://github.com/tonsky/datascript)** by [Nikita Prokopov](https://github.com/tonsky)  
   An immutable in-memory database and Datalog query engine in Clojure and ClojureScript.
 
-- [Emmet](https://github.com/emmetio/emmet) by [Sergey Chikuyonok](https://github.com/sergeche)  
+- **[Emmet](https://github.com/emmetio/emmet)** by [Sergey Chikuyonok](https://github.com/sergeche)  
   A web-developer’s toolkit for boosting HTML & CSS code writing.
   
-- [Lint staged](https://github.com/okonet/lint-staged) by [Andrey Okonetchnikov](https://github.com/okonet)  
+- **[Lint staged](https://github.com/okonet/lint-staged)** by [Andrey Okonetchnikov](https://github.com/okonet)  
   Tool for running linters on Git staged files.
   
-- [Nano ID](https://github.com/ai/nanoid) by [Andrey Sitnik](https://github.com/ai)  
+- **[Nano ID](https://github.com/ai/nanoid)** by [Andrey Sitnik](https://github.com/ai)  
   A tiny (108 bytes), secure, URL-friendly, unique string ID generator.
 
 ## > 1k ★
 
-- [Effector](https://github.com/zerobias/effector) by [@zerobias](https://github.com/zerobias/effector)  
+- **[Effector](https://github.com/zerobias/effector)** by [@zerobias](https://github.com/zerobias/effector)  
   An effective multi-store state manager for JavaScript apps.
 
 - The place for your next great pet project!
