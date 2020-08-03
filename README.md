@@ -72,6 +72,9 @@
 
 - **[Effector](https://github.com/zerobias/effector)** by [@zerobias](https://github.com/zerobias/effector)  
   An effective multi-store state manager for JavaScript apps.
+  
+- **[Fotorama](https://github.com/artpolikarpov/fotorama)** by [Artem Polikarpov](https://github.com/artpolikarpov)  
+  A simple, stunning, powerful jQuery gallery.
 
 - The place for your next great pet project!
   
