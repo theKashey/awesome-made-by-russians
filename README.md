@@ -79,7 +79,7 @@
 
 ## > 1k ★
 
-- **[Effector](https://github.com/zerobias/effector)** by [@zerobias](https://github.com/zerobias/effector)  
+- **[Effector](https://github.com/zerobias/effector)** by [Dmitry Boldyrev](https://github.com/zerobias/effector)  
   An effective multi-store state manager for JavaScript apps.
   
 - **[Fotorama](https://github.com/artpolikarpov/fotorama)** by [Artem Polikarpov](https://github.com/artpolikarpov)  
