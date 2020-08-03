@@ -67,6 +67,9 @@
   
 - **[Nano ID](https://github.com/ai/nanoid)** by [Andrey Sitnik](https://github.com/ai)  
   A tiny (108 bytes), secure, URL-friendly, unique string ID generator.
+  
+- **[Size Limit](https://github.com/ai/size-limit)** by by [Andrey Sitnik](https://github.com/ai)  
+  A tool for JavaScript that checks every commit on CI, calculates the real cost of JS for end-users and throws an error if the cost exceeds the limit.
 
 ## > 1k ★
 
