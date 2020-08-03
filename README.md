@@ -68,6 +68,9 @@
 - **[Emmet](https://github.com/emmetio/emmet)** by [Sergey Chikuyonok](https://github.com/sergeche)  
   A web-developer’s toolkit for boosting HTML & CSS code writing.
 
+- **[GIXY](https://github.com/yandex/gixy)** by [Yandex](https://github.com/yandex)  
+  Nginx configuration static analyzer.
+
 - **[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)** by [JetBrains](https://github.com/JetBrains)  
   The free and open source typeface for developers.
 
