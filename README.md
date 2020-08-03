@@ -1,6 +1,6 @@
 # 🇷🇺 Awesome Made in Russia [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> 🇷Curating the best projects that were made by Russian programmers
+> Curating the best projects that were made by Russian programmers
 
 ## Projects
 
