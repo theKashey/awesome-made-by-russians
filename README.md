@@ -64,7 +64,10 @@
 
 ## > 1k ★
 
-- The place for your great project!
+- [Effector](https://github.com/zerobias/effector) by [@zerobias](https://github.com/zerobias/effector)  
+  An effective multi-store state manager for JavaScript apps.
+
+- The place for your next great pet project!
   
 ## But why?
 
