@@ -83,7 +83,7 @@
 - **[Shower](https://github.com/shower/shower)** by [Vadim Makeev](https://github.com/pepelsbey)  
   HTML presentation engine.
 
-- **[Size Limit](https://github.com/ai/size-limit)** by by [Andrey Sitnik](https://github.com/ai)  
+- **[Size Limit](https://github.com/ai/size-limit)** by [Andrey Sitnik](https://github.com/ai)  
   A tool for JavaScript that checks every commit on CI, calculates the real cost of JS for end-users and throws an error if the cost exceeds the limit.
 
 ## > 1k ★
@@ -93,6 +93,9 @@
   
 - **[Fotorama](https://github.com/artpolikarpov/fotorama)** by [Artem Polikarpov](https://github.com/artpolikarpov)  
   A simple, stunning, powerful jQuery gallery.
+  
+- **[Storeon](https://github.com/storeon/storeon)** by [Andrey Sitnik](https://github.com/ai)  
+  A tiny (167 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte.
 
 - The place for your next great pet project!
   
