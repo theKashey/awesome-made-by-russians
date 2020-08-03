@@ -85,7 +85,7 @@
   
 - **[Nano ID](https://github.com/ai/nanoid)** by [Andrey Sitnik](https://github.com/ai)  
   A tiny (108 bytes), secure, URL-friendly, unique string ID generator.
-  
+
 - **[React Styleguidist](https://github.com/styleguidist/react-styleguidist)** by [Artem Sapegin](https://github.com/sapegin)  
   Isolated React component development environment with a living style guide.
 
@@ -133,7 +133,7 @@
 - **[PostHTML](https://github.com/posthtml/posthtml)** by [Ivan Voischev](https://github.com/voischev)  
   A tool to transform HTML/XML with JS plugins.
   
-- **[Size-Marks-PS](https://github.com/romashamin/Size-Marks-PS) by [Roman Shamin](https://github.com/romashamin)
+- **[Size-Marks-PS](https://github.com/romashamin/Size-Marks-PS)** by [Roman Shamin](https://github.com/romashamin)
   A Photoshop script that makes measurement marks.
   
 - **[Storeon](https://github.com/storeon/storeon)** by [Andrey Sitnik](https://github.com/ai)  
