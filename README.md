@@ -83,6 +83,9 @@
 - **[Img Proxy](https://github.com/imgproxy/imgproxy)** by [Sergey Alexandrovich](https://github.com/DarthSim)<br>
   Fast and secure standalone server for resizing and converting remote images.
 
+- **[KittenPHP](https://github.com/vk-com/kphp-kdb)** by [VK](https://github.com/vkcom)<br>
+  Efficient PHP-to-C++ translator.
+
 - **[Konva](https://github.com/konvajs/konva)** by [Anton Lavrenov](https://github.com/lavrton)<br>
   An HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 
