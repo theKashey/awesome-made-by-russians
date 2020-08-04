@@ -68,7 +68,7 @@
 - **[Emmet](https://github.com/emmetio/emmet)** by [Sergey Chikuyonok](https://github.com/sergeche)  
   A web-developer’s toolkit for boosting HTML & CSS code writing.
   
-- **[Evil Icons](https://github.com/evil-icons/evil-icons)** by [Alexander Madyankin](https://github.com/outpunk) and [Roman Shamin](https://github.com/romashamin)
+- **[Evil Icons](https://github.com/evil-icons/evil-icons)** by [Alexander Madyankin](https://github.com/outpunk) and [Roman Shamin](https://github.com/romashamin)  
   Simple and clean SVG icon pack.
 
 - **[GIXY](https://github.com/yandex/gixy)** by [Yandex](https://github.com/yandex)  
@@ -76,6 +76,9 @@
 
 - **[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)** by [JetBrains](https://github.com/JetBrains)  
   The free and open source typeface for developers.
+
+- **[Img Proxy](https://github.com/imgproxy/imgproxy)** by [Sergey Alexandrovich](https://github.com/DarthSim)  
+  Fast and secure standalone server for resizing and converting remote images.
 
 - **[Konva](https://github.com/konvajs/konva)** by [Anton Lavrenov](https://github.com/lavrton)  
   An HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
@@ -112,28 +115,25 @@
 - **[Frontend Dictionary](https://github.com/web-standards-ru/dictionary)** by [Web Standards Ru](https://github.com/web-standards-ru)  
   A repo with Russian translation of common terms and famous developers names.
   
-- **[gon](https://github.com/gazay/gon)** by [Alex Gaziev](https://github.com/gazay)
+- **[Gon](https://github.com/gazay/gon)** by [Alex Gaziev](https://github.com/gazay)  
   Your Rails variables in your JS.
   
-- **[imgproxy](https://github.com/imgproxy/imgproxy)** by [Sergey Alexandrovich](https://github.com/DarthSim)
-  Fast and secure standalone server for resizing and converting remote images.
-  
-- **[Lefthook](https://github.com/Arkweid/lefthook)** by [Abroskin Alexander](https://github.com/Arkweid)
+- **[Lefthook](https://github.com/Arkweid/lefthook)** by [Abroskin Alexander](https://github.com/Arkweid)  
   Fast and powerful Git hooks manager for Node.js, Ruby or any other type of projects.
   
-- **[Overmind](https://github.com/DarthSim/overmind)** by [Sergey Alexandrovich](https://github.com/DarthSim)
+- **[Overmind](https://github.com/DarthSim/overmind)** by [Sergey Alexandrovich](https://github.com/DarthSim)  
   Process manager for Procfile-based applications and tmux.
   
-- **[Parser](https://github.com/whitequark/parser)** by [whitequark](https://github.com/whitequark)
+- **[Parser](https://github.com/whitequark/parser)** by [whitequark](https://github.com/whitequark)  
   Ruby parser written in pure Ruby.
   
-- **[postcss-modules](https://github.com/css-modules/postcss-modules)** by [Alexander Madyankin](https://github.com/outpunk)
+- **[PostCSS Modules](https://github.com/css-modules/postcss-modules)** by [Alexander Madyankin](https://github.com/outpunk)  
   PostCSS plugin to use CSS Modules everywhere.
   
 - **[PostHTML](https://github.com/posthtml/posthtml)** by [Ivan Voischev](https://github.com/voischev)  
   A tool to transform HTML/XML with JS plugins.
   
-- **[Size-Marks-PS](https://github.com/romashamin/Size-Marks-PS)** by [Roman Shamin](https://github.com/romashamin)
+- **[Size Marks PS](https://github.com/romashamin/Size-Marks-PS)** by [Roman Shamin](https://github.com/romashamin)  
   A Photoshop script that makes measurement marks.
   
 - **[Storeon](https://github.com/storeon/storeon)** by [Andrey Sitnik](https://github.com/ai)  
@@ -142,7 +142,7 @@
 - **[Tacit](https://github.com/yegor256/tacit)** by [Yegor Bugayenko](https://github.com/yegor256)  
   A primitive CSS framework for those who don't know anything about graphic design but want their web services to look eatable. No classes, no layouts.
   
-- **[TestProf](https://github.com/test-prof/test-prof)** by [Vladimir Dementyev](https://github.com/palkan)
+- **[TestProf](https://github.com/test-prof/test-prof)** by [Vladimir Dementyev](https://github.com/palkan)  
   Collection of different tools to analyze your test suite performance.
 
 - The place for your next great pet project!
