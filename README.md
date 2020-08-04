@@ -47,6 +47,9 @@
   
 - **[Swiper](https://github.com/nolimits4web/swiper)** by [Vladimir Kharlampidi](https://github.com/nolimits4web)<br>
   Most modern mobile touch slider with hardware accelerated transitions.
+  
+- **Telegram apps** by developers from [Telegram](https://telegram.org/apps)<br>
+  Messenger clients for [iOS](https://github.com/TelegramMessenger/Telegram-iOS), [Android](https://github.com/DrKLO/Telegram), [macOS](https://github.com/overtake/TelegramSwift), [desktop](https://github.com/telegramdesktop/tdesktop), [web](https://github.com/zhukov/webogram). And [TDLib](https://github.com/tdlib/td).
 
 ## > 3k ★
 
