@@ -103,7 +103,7 @@
 - **[Awsm.css](https://github.com/igoradamenko/awsm.css)** by [Igor Adamenko](https://github.com/igoradamenko)  
   Simple CSS library for semantic HTML markup.
   
-- **[AnyCable](https://github.com/anycable/anycable)** by [Vladimir Dementyev](https://github.com/palkan)
+- **[AnyCable](https://github.com/anycable/anycable)** by [Vladimir Dementyev](https://github.com/palkan)  
   Allows you to use any WebSocket server (written in any language) as a replacement for your Ruby server.
 
 - **[Effector](https://github.com/zerobias/effector)** by [Dmitry Boldyrev](https://github.com/zerobias/effector)  
