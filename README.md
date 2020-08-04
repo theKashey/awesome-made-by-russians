@@ -163,7 +163,7 @@ The trigger is [this tweet](https://twitter.com/fobbyal/status/12903117048033402
 
 > Is there a cool open source project mainly contributed by Russian developers?
 
-The goal of the project is to highlight how modern IT is a product of global culture. There are many different nations in your `package-lock.json`, or `Gemfile.lock`, or elsewhere. And we are highlighting the Russian part just because we know it better. ([#2](https://github.com/igoradamenko/awesome-made-in-russia/issues/2))
+The goal of the project is to highlight how modern software is a product of global culture. There are many different nations in your `package-lock.json`, or `Gemfile.lock`, or elsewhere. And we are highlighting the Russian part just because we know it better. ([#2](https://github.com/igoradamenko/awesome-made-in-russia/issues/2))
 
 ## Contributing 
 
