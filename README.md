@@ -79,6 +79,9 @@
 
 - **[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)** by [JetBrains](https://github.com/JetBrains)<br>
   The free and open source typeface for developers.
+  
+- **[JSS](https://github.com/cssinjs/jss)** by [Oleg Isonen](https://github.com/kof)<br>
+  Authoring tool for CSS which uses JavaScript as a host language.
 
 - **[Img Proxy](https://github.com/imgproxy/imgproxy)** by [Sergey Alexandrovich](https://github.com/DarthSim)<br>
   Fast and secure standalone server for resizing and converting remote images.
